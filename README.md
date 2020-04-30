@@ -7,8 +7,7 @@ how is this equation:
 
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
-$
-\alpha = \beta + \gamma
-$
+<img src="https://render.githubusercontent.com/render/math?math=\sum_{\tau=1}^\infty = I_{\tau}w(\tau)">
+
 
 
